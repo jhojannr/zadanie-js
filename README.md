@@ -1,6 +1,6 @@
 # Webpack Starter
 
-Este es un proyecto de Tareas creado y ejecutado por 
+Proyecto de Tareas con JavaScript utilizando conceptos de Local Storage.
 
 ### Notas:
 Recuerden reconstruir los módulos de Node
